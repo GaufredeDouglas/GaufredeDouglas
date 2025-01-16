@@ -43,4 +43,18 @@ I am a developer from France obsessed with music
 
 ## Projects
 
+#### [Chess AI](https://github.com/GaufredeDouglas/Chess_AI)
 
+This project is an AI-based Jupyter notebook system for autonomous generation of improved chess moves, allowing players to battle against friends (on the machine) or different "AI" opponents.
+
+<p align="center">
+	<a href="https://github.com/GaufredeDouglas/Chess_AI"><img src="https://github.com/GaufredeDouglas/GaufredeDouglas/chess.gif" width="500"></a>
+</p
+
+#### [Rust API](https://github.com/GaufredeDouglas/ApiRust)
+
+The main idea was to develop the most efficient and lightweight REST API app. It is based on Rust's powerful features alongside Rocket framework's web server implementation.
+
+<p align="center">
+	<a href="https://github.com/GaufredeDouglas/ApiRust"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="500"></a>
+</p
