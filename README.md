@@ -48,7 +48,7 @@ I am a developer from France obsessed with music
 This project is an AI-based Jupyter notebook system for autonomous generation of improved chess moves, allowing players to battle against friends (on the machine) or different "AI" opponents.
 
 <p align="center">
-	<a href="https://github.com/GaufredeDouglas/Chess_AI"><img src="https://github.com/GaufredeDouglas/GaufredeDouglas/chess.gif" width="500"></a>
+	<a href="https://github.com/GaufredeDouglas/Chess_AI"><img src="https://github.com/GaufredeDouglas/GaufredeDouglas/blob/main/chess.gif" width="400"></a>
 </p
 
 #### [Rust API](https://github.com/GaufredeDouglas/ApiRust)
@@ -56,5 +56,5 @@ This project is an AI-based Jupyter notebook system for autonomous generation of
 The main idea was to develop the most efficient and lightweight REST API app. It is based on Rust's powerful features alongside Rocket framework's web server implementation.
 
 <p align="center">
-	<a href="https://github.com/GaufredeDouglas/ApiRust"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="500"></a>
+	<a href="https://github.com/GaufredeDouglas/ApiRust"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="400"></a>
 </p
